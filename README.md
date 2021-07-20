@@ -11,4 +11,4 @@ QRcode generator % decoder
 
 ![andysportscenter_qrcode](https://user-images.githubusercontent.com/61671531/126278011-4c7f3a77-12ba-4436-8a97-c78c6b101c42.jpg)
 
-The QRcode above I generated is generated via the link [Andy's Sports Center](https://instagram.com/andysportscenter?utm_medium=copy_link)
+The QRcode above is generated via the link [Andy's Sports Center](https://instagram.com/andysportscenter?utm_medium=copy_link)
