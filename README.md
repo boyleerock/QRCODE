@@ -1,5 +1,5 @@
 # QRCODE
-QRcode generator % decoder
+QRcode generator & decoder
 
 1.  pip install qrcode
     
