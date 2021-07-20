@@ -2,6 +2,7 @@
 QRcode generator % decoder
 
 1.  pip install qrcode
+    
     pip install cv2
 
 2.  If you run generate_qrcode.py to generate QRcode of the link or context you enter.
